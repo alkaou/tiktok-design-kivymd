@@ -1,2 +1,8 @@
+# you can skip this first one if it is not already excluded by prior patterns
+!assets/
 
-/assets
+assets/*
+!assets/videos/
+
+# assets/images/*
+# !application/language/gr/
